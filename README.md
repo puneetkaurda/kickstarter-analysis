@@ -14,7 +14,7 @@ The graph attached below explains the trend of the campaign outcomes based on th
 
 
 ### Analysis of Outcomes Based on Goals
-The Graph attached below explains the trend of the outcomes based on the goals. The percentage os successes of the campaigns are higher in the lower goal amount range. If the goal is less tax $4999, It has a higher percentage of success. The percentage of canceled plays is at 0% on any goal amount. For the failed campaigns, in the lower ranges of goal amount, there are less chances of failures. It shows if the goal amount is more than $45000, its a clear failure.
+The Graph attached below explains the trend of the outcomes based on the goals. The percentage os successes of the campaigns are higher in the lower goal amount range. If the goal is less than $4999, It has a higher percentage of success. The percentage of canceled plays is at 0% on any goal amount. For the failed campaigns, in the lower ranges of goal amount which would be around $3000, there are less chances of failures. It shows if the goal amount is more than $45000, its a clear failure.
 ![Outcomes_vs_Gaols](https://user-images.githubusercontent.com/107584891/175348559-2d9a05ba-1064-4008-a837-0c837c950e5f.png)
 
 
@@ -24,7 +24,8 @@ The Graph attached below explains the trend of the outcomes based on the goals. 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
- The months with the most successes are May  and June. The months with the most failures are mainly January, March and November. 
+ The months with the most successes are May  and June. 
+ The months with the most failures are mainly January, March and November. 
  <img width="336" alt="Screen Shot 2022-06-23 at 10 28 36 AM" src="https://user-images.githubusercontent.com/107584891/175348875-40c43dc9-ba1f-49fc-9235-bb4f759b06af.png">
 
 - What can you conclude about the Outcomes based on Goals?
