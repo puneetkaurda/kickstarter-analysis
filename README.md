@@ -8,13 +8,7 @@ The purpose of this dataset is to figure out how different campaigns are managed
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The graph attached below explains the trend of the campaign outcomes based on their launch months. 
-It clearly shows that the number of successful outcomes are higher than both the failed and cancelled campaigns throughout all months. 
-The count of successful outcomes is depicted as gray in the graph, while the failed outcomes is orange, and the number of canceled outcomes is blue. 
-The number of successful outcomes has the widest range, varying from 37 in December to 111 in the month of May. 
-In contrast, the failed campaign outcomes are in a significantly smaller range between 33 and 50. 
-The number of canceled outcomes never exceeds 7 per month which is depicted as a relatively constant blue line in the graph. 
-Overall,the highest number of outcomes occurred in the months of May and June. 
+The graph attached below explains the trend of the campaign outcomes based on their launch months. It clearly shows that the number of successful outcomes are higher than both the failed and cancelled campaigns throughout all months. The count of successful outcomes is depicted as gray in the graph, while the failed outcomes is orange, and the number of canceled outcomes is blue. The number of successful outcomes has the widest range, varying from 37 in December to 111 in the month of May. In contrast, the failed campaign outcomes are in a significantly smaller range between 33 and 50. In the months of January, June, July and October all had almost the same number of failed campaigns launched. The number of canceled outcomes never exceeds 7 per month which is depicted as a relatively constant blue line in the graph. Overall,the highest number of outcomes occurred in the month of May . 
  ![Theater_outcomes_vs_Launch](https://user-images.githubusercontent.com/107584891/175348372-488634e6-a113-47cb-b25d-65051fb15661.png)
 
 
