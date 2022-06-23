@@ -3,10 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this dataset is to figure out how different campaigns managed in relation to their launch dates and their funding goals. 
-It also helps to research projects with a similar monetary goal which will help Louise find out the trend of the successes.
-The visualization of the data will help to analyze percentage of successful, failed, and canceled plays based on the funding goal amount.
-Louise is estimating that her play will cost $12,000. By doing this project, we can identify the relationship between the success percentage of pledging and the goal.
+The purpose of this dataset is to figure out how different campaigns are managed about their launch dates and their funding goals. It also helps to research projects with a similar monetary goal which will help Louise find out the trend of the successes. The visualization of the data will help to analyze the percentage of successful, failed, and canceled plays based on the funding goal amount. Louise is estimating that her play will cost $12,000. By doing this project, we can identify the relationship between the success percentage of pledging and the goal.
 
 ## Analysis and Challenges
 
