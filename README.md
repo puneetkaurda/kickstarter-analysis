@@ -17,11 +17,16 @@ The count of successful outcomes is depicted as gray in the graph, while the fai
 The number of successful outcomes has the widest range, varying from 37 in December to 111 in the month of May. 
 In contrast, the failed campaign outcomes are in a significantly smaller range between 33 and 50. 
 The number of canceled outcomes never exceeds 7 per month which is depicted as a relatively constant blue line in the graph. 
-Overall, the highest number of outcomes occurred in the months of May and June. 
+Overall,the highest number of outcomes occurred in the months of May and June. 
+ ![Theater_outcomes_vs_Launch](https://user-images.githubusercontent.com/107584891/175348372-488634e6-a113-47cb-b25d-65051fb15661.png)
+
 
 
 ### Analysis of Outcomes Based on Goals
 The Graph attached below explains the trend of the outcomes based on the goals. The percentage os successes of the campaigns are higher in the lower goal amount range. If the goal is less tax $4999, It has a higher percentage of success. The percentage of canceled plays is at 0% on any goal amount. For the failed campaigns, in the lower ranges of goal amount, there are less chances of failures. It shows if the goal amount is more than $45000, its a clear failure.
+![Outcomes_vs_Gaols](https://user-images.githubusercontent.com/107584891/175348559-2d9a05ba-1064-4008-a837-0c837c950e5f.png)
+
+
 
 ### Challenges and Difficulties Encountered
 
@@ -29,9 +34,12 @@ The Graph attached below explains the trend of the outcomes based on the goals. 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
  The months with the most successes are May  and June. The months with the most failures are mainly January, March and November. 
+ <img width="336" alt="Screen Shot 2022-06-23 at 10 28 36 AM" src="https://user-images.githubusercontent.com/107584891/175348875-40c43dc9-ba1f-49fc-9235-bb4f759b06af.png">
 
 - What can you conclude about the Outcomes based on Goals?
 After completing this project, the trend of successes is pretty consistent and evident. What triggers the success and causes the failures of the campaigns is not that clear. But if you want to choose the safer choice, it should be lower goal amount range which is less than $4999.
+<img width="736" alt="Screen Shot 2022-06-23 at 10 31 51 AM" src="https://user-images.githubusercontent.com/107584891/175349480-eaa7dea8-2555-427c-acb8-717e6fee66af.png">
+
 
 - What are some limitations of this dataset?
 There is another outcome which is live. In my opinion that category should not be there. It should fall into successful or canceled. 
