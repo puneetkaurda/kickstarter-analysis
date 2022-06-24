@@ -38,6 +38,7 @@ The dataset also lists another outcome, a live campaign. Since a live campaign m
 
 - What are some other possible tables and/or graphs that we could create?
 
-Bar chart: Percentage Success vs. Failure when the goal is $12,000
+Bar chart: Percentage Success vs. Failure 
+When the goal is $12,000
 This bar chart will give Lousie a better insight into the outcome of her own campaign. This type of data visualization will help Louise roughly determine her percentage of success when she decides to set a goal of $12,000 for her campaign.
 
